@@ -11,7 +11,7 @@ article, aside, footer, header, main, nav, section {
 }
 
 .banner {
-  background-color: #11233b;
+  background-color: blue;
   color: white;
   padding: 10px 20px;
 }
